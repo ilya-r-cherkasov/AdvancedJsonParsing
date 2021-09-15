@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7C7C4F5C-1EF7-4B5B-9EF8-49701C58A869"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A69523C8-D691-4000-96BF-DD8DB46C961C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AdvancedJsonParsing/Networking/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "downloadList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A69523C8-D691-4000-96BF-DD8DB46C961C - a26702b079341f96"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; () in AdvancedJsonParsing.NetworkManager.downloadList() -&gt; ()"
+                  moduleName = "AdvancedJsonParsing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilyacherkasov/Desktop/Development/%D0%A1urXCodePrj/AdvancedJsonParsing/AdvancedJsonParsing/Networking/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  uuid = "A69523C8-D691-4000-96BF-DD8DB46C961C - c2a07e11e62307eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;AdvancedJsonParsing.MainScreenModel&gt;) -&gt; () in closure #1 (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; () in AdvancedJsonParsing.NetworkManager.downloadList() -&gt; ()"
+                  moduleName = "AdvancedJsonParsing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilyacherkasov/Desktop/Development/%D0%A1urXCodePrj/AdvancedJsonParsing/AdvancedJsonParsing/Networking/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "518217FC-854E-4C4D-9DF8-363E4F1168B7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AdvancedJsonParsing/Networking/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "downloadList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
